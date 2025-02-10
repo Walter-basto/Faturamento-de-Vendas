@@ -1,3 +1,8 @@
+Walter Bastos Jorge Filho
+Universidade Estácio de Sá - Polo Duque de Caxias(Centro) - Rio de Janeiro
+Trabalho de extensão de Análise de Dados em Python
+
+Descrição do Faturamento_de_Vendas da análise de dados em python 
 
 1= Importação de Bibliotecas: linhas do codigo abaixo importam as bibliotecas pandas é usada para manipulação de dados e plotly.express para criação de gráficos interativos.
 
