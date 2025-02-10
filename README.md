@@ -1,5 +1,5 @@
 
-1= Importação de Bibliotecas:linhas do codigo abaixo importam as bibliotecas pandas é usada para manipulação de dados e plotly.express para criação de gráficos interativos.
+1= Importação de Bibliotecas: linhas do codigo abaixo importam as bibliotecas pandas é usada para manipulação de dados e plotly.express para criação de gráficos interativos.
 
 import pandas as pd
 
