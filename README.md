@@ -1,5 +1,7 @@
 Walter Bastos Jorge Filho
+
 Universidade Estácio de Sá - Polo Duque de Caxias(Centro) - Rio de Janeiro
+
 Trabalho de extensão de Análise de Dados em Python
 
 Descrição do Faturamento_de_Vendas da análise de dados em python 
